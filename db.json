@@ -1,0 +1,33 @@
+{
+  "seller": [
+    {
+      "name": "Anil kumar",
+      "email": "anilkumar@seller.com",
+      "password": "anil@123",
+      "id": "1"
+    },
+    {
+      "name": "Anil yadav",
+      "email": "anilyadav@seller.com",
+      "password": "anil@123",
+      "id": "2"
+    },
+    {
+      "id": "d460",
+      "name": "rahul",
+      "password": "rahul",
+      "email": "rahul@gmail.com"
+    }
+  ],
+  "products": [
+    {
+      "id": "e10f",
+      "name": "I phone 14",
+      "price": "1500",
+      "color": "red",
+      "category": "mobile",
+      "description": "hello this is apple product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o"
+    }
+  ]
+}
