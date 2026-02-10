@@ -28,6 +28,15 @@
       "category": "mobile",
       "description": "hello this is apple product",
       "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o"
+    },
+    {
+      "id": "98df",
+      "name": "I phone 14",
+      "price": "1500",
+      "color": "red",
+      "category": "mobile",
+      "description": "hello this is apple product",
+      "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSOO1JDPUNwcPiqzHYhaL_zpJA0Ymlr6mD9sSgTPad_JYdrk-o"
     }
   ]
 }
